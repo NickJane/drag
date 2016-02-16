@@ -1,5 +1,2 @@
-提交到版本区
+this is version area
 
-提交到暂存区
-
-这是最新工作区
